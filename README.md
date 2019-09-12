@@ -2,7 +2,7 @@
 INSA
 =======
 
-Support de cours pour les étudiants de l'[INSA](http://www.univ-valenciennes.fr/ensiame/page-daccueil-ensiame) pour les modules de:
+Support de cours pour les étudiants de l'[INSA Hauts-De-France](http://www.univ-valenciennes.fr/ensiame/page-daccueil-ensiame) pour les modules de:
 * 2A:
   * Mécanique des fluides
 * 3A:
